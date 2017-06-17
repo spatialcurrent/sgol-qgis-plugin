@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SGOL4Q" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

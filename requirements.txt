@@ -1,0 +1,4 @@
+pyextract
+requests
+git+git://github.com/spatialcurrent/sgol-python.git@master
+pb_tool
